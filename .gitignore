@@ -55,4 +55,6 @@ app.*.map.json
 
 references.md
 
+android/app/android.keystore
+
 
