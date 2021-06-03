@@ -46,8 +46,10 @@ app.*.map.json
 /android/app/release
 
 
-# Android related
+# Android related commit
 **/android/.gradle
 **/android/captures/
 **/android/local.properties
 **/android/**/GeneratedPluginRegistrant.java
+
+
