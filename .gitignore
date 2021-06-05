@@ -58,3 +58,4 @@ references.md
 *.env
 
 /android/*.properties
+/android/app/*.jks
