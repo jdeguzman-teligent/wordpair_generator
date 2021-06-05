@@ -57,3 +57,5 @@ references.md
 
 *.env
 
+*/android/app/upload-keystore.jks
+
