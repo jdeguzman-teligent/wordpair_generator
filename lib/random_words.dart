@@ -69,7 +69,8 @@ class RandomWordsState extends State<RandomWords> {
           title: Text('WordPair Generator'),
           actions: <Widget>[
             IconButton(onPressed: _pushSaved, icon: Icon(Icons.list)),
-            IconButton(onPressed: _pushSaved, icon: Icon(Icons.headphones))
+            IconButton(onPressed: _pushSaved, icon: Icon(Icons.headphones))            ,
+            IconButton(onPressed: _pushSaved, icon: Icon(Icons.run_circle))
           ],
         ),
         body: _buildList());
