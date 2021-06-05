@@ -55,6 +55,6 @@ app.*.map.json
 
 references.md
 
+*.env
 
-
-
+/android/*.properties
